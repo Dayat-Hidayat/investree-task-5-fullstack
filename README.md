@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Ekstrak File nya menggunakan winrar / 7zip
+
 Install semua dependencies pakai composer
 
     composer install
